@@ -1,4 +1,4 @@
-# Cancer-Cell-Identification
+# Cancer Cell Identification
 
 ![image](https://github.com/stfrey/Cancer-Cell-Identification/blob/master/Images/TissueSlides.png)
 
